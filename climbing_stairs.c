@@ -13,6 +13,10 @@ int solution(int n){
 			//}
 			//return sum;
 			return solution(n-1)+solution(n-2);
+			//solution(n),以下简称s(n)
+			//s(n)=s(n-2)+s(n-3)+s(n-4)+...+s(1)+2
+			//s(n)=s(n-2)+[s(n-3)+s(n-4)+...+s(1)+2]
+			//s(n)=s(n-2)+s(n-1)
 		}		
 	}
 	
