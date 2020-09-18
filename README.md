@@ -1,4 +1,4 @@
-## `Readme for repository "tests"`
+## `Readme for repository "C-test"`
 This repository is built upload a test in a extra-curricular computer science course. Both "climbing_stairs.c" and "finding_4_digit_numbers.c" are programmed in C.
 
 "climbing_stairs" is used to solve the following problem: 
